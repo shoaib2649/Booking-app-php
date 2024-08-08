@@ -1,0 +1,48 @@
+.container{
+	margin-top: 45px;
+	border: 2px solid black;
+	padding: 23px;
+
+}
+.img img{
+	border-radius: 745px;
+}
+.submit input{
+border-radius: : 10px solid white;
+line-height: 20px;
+ background-color: black;
+ color: white;
+ margin-top: 25px;
+}
+a{
+	text-decoration: none;
+
+}
+.addroom{
+	margin-top: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: black;
+	color: white;
+	font-style: initial;
+	border-radius: 30px;
+	padding: 4px;
+	
+   
+}
+#ul{
+float:left;
+margin-right: 145px;
+}
+#ul li{
+
+margin-right: 145px;
+}
+.thead-dark{
+
+	background-color: black;
+	color: white;
+
+}
+

@@ -1,0 +1,27 @@
+.container{
+	border: 2px solid blue;
+
+}
+.img img{
+	border-radius: 745px;
+}
+.submit input{
+border-radius: : 10px solid white;
+line-height: 20px;
+ background-color: black;
+ color: white;
+ margin-top: 45px;
+}
+
+ul{
+	list-style-type: none;
+	text-decoration: none;
+	background-color: black;
+
+}
+li{
+	color: white;
+	float: left;
+	margin-left: 22px;
+	padding: 45px;
+}
